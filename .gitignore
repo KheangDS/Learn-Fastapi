@@ -82,3 +82,5 @@ dmypy.json
 
 # Local development
 *.local
+
+docker-compose.yml
